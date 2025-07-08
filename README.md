@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Thanks For Your Visit
+Thanks For Visiting
 
 Permit me to Introduce Myself
 
