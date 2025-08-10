@@ -1,7 +1,7 @@
 ![WELCOME](Image/GitHub%20Banner.png)
 
-### Hey 👋
-#### My Name is INFAN ABRIANSA
+# Hey 👋
+### My Name is INFAN ABRIANSA
 Permit me to Introduce Myself
 
 - 🌱 I’m currently learning ***Website***
