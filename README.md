@@ -1,4 +1,4 @@
-![WELCOME](/Ku-bosen/Image/GitHub%20Banner.png)
+![WELCOME](/Image/GitHub%20Banner.png)
 
 ### Hey 👋
 #### My Name is INFAN ABRIANSA
