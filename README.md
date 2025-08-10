@@ -1,13 +1,9 @@
-# Hi there 👋
+![WELCOME](/Ku-bosen/Image/GitHub%20Banner.png)
 
-!Thanks For Visiting
-
+### Hey 👋
+#### My Name is INFAN ABRIANSA
 Permit me to Introduce Myself
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ***Website***
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 Email me: abriansahd@gmail.com
 - ⚡ Fun fact: ***I'm a Human***
