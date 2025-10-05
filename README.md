@@ -1,4 +1,3 @@
-# Hey 👋
 ![WELCOME](Image/GitHub%20Banner.png)
 
 <picture>
